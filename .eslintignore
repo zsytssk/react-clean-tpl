@@ -1,1 +1,6 @@
-**/*.js
+.prettierrc.js
+.eslintrc.js
+node_modules
+public
+**/*.test.js
+**/*.test.tsx
